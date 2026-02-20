@@ -5,6 +5,9 @@ Leaf-O-Clean is an autonomous garden maintenance robot designed to detect, navig
 
 This project integrates **Machine Learning**, **Embedded Systems**, and **Autonomous Navigation Algorithms** to provide an eco-friendly alternative to traditional leaf-cleaning techniques such as manual raking or air-polluting leaf blowers.
 
+https://github.com/user-attachments/assets/ade78d41-d91a-412a-9a29-45674939576b
+
+
 ---
 
 ## 🚀 Problem Statement
